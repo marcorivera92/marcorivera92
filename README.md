@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marco-rivera-a90361211" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="/marcorivera92"/></a>
-<a href="https://instagram.com//marcorivera.wav" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="/marcorivera.wav"/></a>
+<a href="https://linkedin.com/in/marco-rivera-a90361211" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="/marcorivera92"/></a>
+<a href="https://instagram.com/marcorivera.wav" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="/marcorivera.wav"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
